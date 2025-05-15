@@ -1,6 +1,5 @@
 import { useForm } from "react-hook-form";
 import { useLocation, Link } from "react-router-dom";
-import { Link } from 'react-router-dom';
 
 const LoginForm = () => {
   const {
